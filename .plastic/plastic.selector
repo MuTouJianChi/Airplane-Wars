@@ -1,0 +1,4 @@
+repository "Airplane Wars@ssl://wechat_os_qy03tddoy_gg5xcch5xe2zhbg@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
